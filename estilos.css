@@ -1,0 +1,25 @@
+header {width: 1500px;
+    height: 100px;
+    background-color: #8d2a2a;
+    margin-left: auto;
+    margin-right: auto;}
+
+header nav a {color: ghostwhite;
+text-decoration: none;
+padding: 10px 10px 10px 10px;
+border: 5px solid white;            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 24px}
+
+header nav a:hover {color: rgb(228, 23, 23);}
+
+header img {float: left;margin-left: 20px;}
+header nav {float: left;
+margin-left: 600px;margin-top: 40px;}
+
+body {margin: 0; background: rgb(230,0,18);
+    background: linear-gradient(180deg, rgba(230,0,18,1) 0%, rgba(6,6,89,1) 30%, rgba(8,8,113,1) 39%, rgba(9,9,121,1) 46%, rgba(0,195,227,1) 71%, rgba(5,103,182,1) 78%, rgba(6,87,173,1) 88%, rgba(0,212,255,1) 100%);}
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow', sans-serif;
+
+    
+
